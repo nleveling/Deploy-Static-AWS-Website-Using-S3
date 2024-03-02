@@ -6,7 +6,7 @@ This demonstrates how to create an AWS Static Website using S3. This was done to
 ## File Summary
 * index.html - The Index document for the website.
 * error.html - Error document to re-direct to if site is down.
-* /img - This is where images would go. It is empty because  I don't want to the childs images on the internet. (Place your images here to replicate)
+* /img - This is where images go used on the site.
 
 ## Project Steps
 1. Create S3 bucket. Uncheck "Block All Public Access".
