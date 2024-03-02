@@ -10,7 +10,7 @@ This demonstrates how to create an AWS Static Website using S3. This was done to
 
 ## Project Steps
 1. Create S3 bucket. Uncheck "Block All Public Access".
-   ![Create S3 Bucket]
+   ![Create S3 Bucket] (img/20230714_184302.jpg)
 
    
 3. Upload the files and folders from your local computer to the your S3 bucket. (Index HTML, Error HTML, and Images)
