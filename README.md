@@ -31,3 +31,7 @@ This demonstrates how to create an AWS Static Website using S3. This was done to
    
 5. Navigate to the bucket properties > Static website hosting, and click on the Bucket website endpoint to view your website.
    ![Static Site Endpoint](Demo_Pics/SiteEndpoint.PNG)
+
+## Link to static website
+http://newfambucket.s3-website-us-east-1.amazonaws.com/
+
